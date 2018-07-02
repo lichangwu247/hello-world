@@ -1,7 +1,7 @@
 #include "stdio.c"
-void main()
+void main(void)
 {
-	while()
+	while(1)
 	{
 		if()
 	
