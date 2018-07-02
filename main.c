@@ -1,9 +1,15 @@
 #include "stdio.c"
 void main()
 {
-	while()
+	while(1)
 	{
-		if()
-	
+		if(1)
+		{
+			switch
+			{
+			
+			}
+		}
+			
 	}
 }
